@@ -1,0 +1,8 @@
+# Download all templates for Week 5 of Tira
+cses-cli template -c tira21k -s 5
+
+# the following feature is not supported any more
+# cses-cli view -c tira21k -t <task ID>
+
+# submit
+$ cses-cli submit <file> -c <course/contest ID> -t <task ID> -l <language> -o <language option>
