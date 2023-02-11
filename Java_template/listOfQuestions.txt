@@ -1,0 +1,118 @@
+
+Viikko 1
+Deadline: 2021-01-27 10:00:00
+ 2436 | Viikon 1 johdanto |    | https://cses.fi/tira21k/text/2436
+ 2232 | Onnenluvut        | -- | https://cses.fi/tira21k/task/2232
+ 2235 | Siksak            | -- | https://cses.fi/tira21k/task/2235
+ 2237 | Lukujono          | -- | https://cses.fi/tira21k/task/2237
+ 2239 | Shakkipulma       | -- | https://cses.fi/tira21k/task/2239
+ 2240 | Suorakulmiot      | -- | https://cses.fi/tira21k/task/2240
+
+Viikko 2
+Deadline: 2021-02-03 10:00:00
+ 2443 | Viikon 2 johdanto |    | https://cses.fi/tira21k/text/2443
+ 2244 | Yksi merkki       | -- | https://cses.fi/tira21k/task/2244
+ 2242 | Sama merkki       | -- | https://cses.fi/tira21k/task/2242
+ 2248 | Listan halkaisu   | -- | https://cses.fi/tira21k/task/2248
+ 2243 | Kaksi merkkiä     | -- | https://cses.fi/tira21k/task/2243
+
+Viikko 3
+Deadline: 2021-02-10 10:00:00
+ 2450 | Viikon 3 johdanto |    | https://cses.fi/tira21k/text/2450
+ 2249 | Lukuvälit         | -- | https://cses.fi/tira21k/task/2249
+ 2247 | Indeksit          | -- | https://cses.fi/tira21k/task/2247
+ 2251 | Laatikot          | -- | https://cses.fi/tira21k/task/2251
+ 2245 | ABC-merkkijono    | -- | https://cses.fi/tira21k/task/2245
+
+Viikko 4
+Deadline: 2021-02-17 10:00:00
+ 2451 | Viikon 4 johdanto |    | https://cses.fi/tira21k/text/2451
+ 2253 | Muuttuva lista    | -- | https://cses.fi/tira21k/task/2253
+ 2255 | Sulkuparit        | -- | https://cses.fi/tira21k/task/2255
+ 2256 | Kääntölista       | -- | https://cses.fi/tira21k/task/2256
+ 2257 | Laskutoimitus     | -- | https://cses.fi/tira21k/task/2257
+
+Viikko 5
+Deadline: 2021-02-24 10:00:00
+ 2452 | Viikon 5 johdanto |    | https://cses.fi/tira21k/text/2452
+ 2261 | Moodi             | -- | https://cses.fi/tira21k/task/2261
+ 2263 | Robotin reitti    | -- | https://cses.fi/tira21k/task/2263
+ 2260 | Eri luvut         | -- | https://cses.fi/tira21k/task/2260
+ 2258 | ABC-tasapaino     | -- | https://cses.fi/tira21k/task/2258
+
+Viikko 6
+Deadline: 2021-03-03 10:00:00
+ 2453 | Viikon 6 johdanto |    | https://cses.fi/tira21k/text/2453
+ 2267 | Lehdet            | -- | https://cses.fi/tira21k/task/2267
+ 2268 | Sama taso         | -- | https://cses.fi/tira21k/task/2268
+ 2270 | Alipuut           | -- | https://cses.fi/tira21k/task/2270
+ 2281 | Puun kopiot       | -- | https://cses.fi/tira21k/task/2281
+
+Viikko 7
+Deadline: 2021-03-17 10:00:00
+ 2454 | Viikon 7 johdanto |    | https://cses.fi/tira21k/text/2454
+ 2273 | Listan pienin     | -- | https://cses.fi/tira21k/task/2273
+ 2274 | Työlista          | -- | https://cses.fi/tira21k/task/2274
+ 2285 | Maksimikeko       | -- | https://cses.fi/tira21k/task/2285
+ 2287 | Etäisyydet        | -- | https://cses.fi/tira21k/task/2287
+
+Viikko 8
+Deadline: 2021-03-24 10:00:00
+ 2456 | Viikon 8 johdanto |    | https://cses.fi/tira21k/text/2456
+ 2299 | ABC-lista         | -- | https://cses.fi/tira21k/task/2299
+ 2300 | ABC-erot          | -- | https://cses.fi/tira21k/task/2300
+ 2301 | Anagrammit        | -- | https://cses.fi/tira21k/task/2301
+ 2304 | Esitystavat       | -- | https://cses.fi/tira21k/task/2304
+ 2306 | Peitteet          | -- | https://cses.fi/tira21k/task/2306
+
+Viikko 9
+Deadline: 2021-03-31 10:00:00
+ 2457 | Viikon 9 johdanto |    | https://cses.fi/tira21k/text/2457
+ 2307 | Hyppely           | -- | https://cses.fi/tira21k/task/2307
+ 2308 | Yhden ero         | -- | https://cses.fi/tira21k/task/2308
+ 2309 | Hirviöt           | -- | https://cses.fi/tira21k/task/2309
+ 2311 | Kolikot           | -- | https://cses.fi/tira21k/task/2311
+ 2361 | Bittipoisto       | -- | https://cses.fi/tira21k/task/2361
+
+Viikko 10
+Deadline: 2021-04-14 10:00:00
+ 2458 | Viikon 10 johdanto |    | https://cses.fi/tira21k/text/2458
+ 2327 | Kaupungit          | -- | https://cses.fi/tira21k/task/2327
+ 2328 | Tietoverkko        | -- | https://cses.fi/tira21k/task/2328
+ 2329 | Huoneet            | -- | https://cses.fi/tira21k/task/2329
+ 2368 | Väritys            | -- | https://cses.fi/tira21k/task/2368
+
+Viikko 11
+Deadline: 2021-04-21 10:00:00
+ 2459 | Viikon 11 johdanto |    | https://cses.fi/tira21k/text/2459
+ 2343 | Paras reitti       | -- | https://cses.fi/tira21k/task/2343
+ 2357 | Välimatkat         | -- | https://cses.fi/tira21k/task/2357
+ 2363 | Seinäpoisto        | -- | https://cses.fi/tira21k/task/2363
+ 2344 | Veden mittaus      | -- | https://cses.fi/tira21k/task/2344
+
+Viikko 12
+Deadline: 2021-04-28 10:00:00
+ 2460 | Viikon 12 johdanto |    | https://cses.fi/tira21k/text/2460
+ 2370 | Syklit             | -- | https://cses.fi/tira21k/task/2370
+ 2371 | Kurssit            | -- | https://cses.fi/tira21k/task/2371
+ 2375 | Pisin polku        | -- | https://cses.fi/tira21k/task/2375
+ 2377 | Verkkopeli         | -- | https://cses.fi/tira21k/task/2377
+
+Viikko 13
+Deadline: 2021-05-05 10:00:00
+ 2463 | Viikon 13 johdanto |    | https://cses.fi/tira21k/text/2463
+ 2381 | Komponentit        | -- | https://cses.fi/tira21k/task/2381
+ 2382 | Uudet tiet         | -- | https://cses.fi/tira21k/task/2382
+ 2389 | Samat painot       | -- | https://cses.fi/tira21k/task/2389
+ 2390 | Seinät ja lattiat  | -- | https://cses.fi/tira21k/task/2390
+
+Viikko 14
+Deadline: 2021-05-19 10:00:00
+ 2464 | Viikon 14 johdanto |    | https://cses.fi/tira21k/text/2464
+ 2392 | Tiedonvälitys      | -- | https://cses.fi/tira21k/task/2392
+ 2393 | Tanssiaiset        | -- | https://cses.fi/tira21k/task/2393
+ 2394 | Uudet seinät       | -- | https://cses.fi/tira21k/task/2394
+ 2396 | Yhtenäisyys        | -- | https://cses.fi/tira21k/task/2396
+ 2397 | Turistikierros     | -- | https://cses.fi/tira21k/task/2397
+ 2398 | Ruudukko           | -- | https://cses.fi/tira21k/task/2398
+

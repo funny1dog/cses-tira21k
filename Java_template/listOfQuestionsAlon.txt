@@ -1,0 +1,111 @@
+
+General
+ 2434 | Ohjeet                         | https://cses.fi/alon/text/2434
+      | Kirjaudu sisään (myös mooc.fi) | https://cses.fi/login?other
+      | Materiaali                     | https://alon.mooc.fi/materiaali
+      | Telegram-ryhmä                 | https://t.me/tkt_alon
+
+Part 1
+ 1068 | Weird Algorithm               | -- | https://cses.fi/alon/task/1068
+ 1094 | Increasing Array              | -- | https://cses.fi/alon/task/1094
+ 1092 | Two Sets                      | -- | https://cses.fi/alon/task/1092
+ 2216 | Collecting Numbers            | -- | https://cses.fi/alon/task/2216
+ 1622 | Creating Strings              | -- | https://cses.fi/alon/task/1622
+ 1629 | Movie Festival                | -- | https://cses.fi/alon/task/1629
+ 2183 | Missing Coin Sum              | -- | https://cses.fi/alon/task/2183
+ 2162 | Josephus Problem I            | -- | https://cses.fi/alon/task/2162
+ 1091 | Concert Tickets               | -- | https://cses.fi/alon/task/1091
+ 1164 | Room Allocation               | -- | https://cses.fi/alon/task/1164
+ 2428 | Subarray Distinct Values      | -- | https://cses.fi/alon/task/2428
+ 2163 | Josephus Problem II           | -- | https://cses.fi/alon/task/2163
+ 1093 | Two Sets II                   | -- | https://cses.fi/alon/task/1093
+ 1744 | Rectangle Cutting             | -- | https://cses.fi/alon/task/1744
+ 1097 | Removal Game                  | -- | https://cses.fi/alon/task/1097
+ 2413 | Counting Towers               | -- | https://cses.fi/alon/task/2413
+ 2220 | Counting Numbers              | -- | https://cses.fi/alon/task/2220
+ 1074 | Stick Lengths                 | -- | https://cses.fi/alon/task/1074
+ 1645 | Nearest Smaller Values        | -- | https://cses.fi/alon/task/1645
+ 1620 | Factory Machines              | -- | https://cses.fi/alon/task/1620
+ 1085 | Array Division                | -- | https://cses.fi/alon/task/1085
+ 1628 | Meet in the Middle            | -- | https://cses.fi/alon/task/1628
+ 1648 | Dynamic Range Sum Queries     | -- | https://cses.fi/alon/task/1648
+ 1649 | Dynamic Range Minimum Queries | -- | https://cses.fi/alon/task/1649
+ 1143 | Hotel Queries                 | -- | https://cses.fi/alon/task/1143
+ 1749 | List Removals                 | -- | https://cses.fi/alon/task/1749
+ 1145 | Increasing Subsequence        | -- | https://cses.fi/alon/task/1145
+ 1651 | Range Update Queries          | -- | https://cses.fi/alon/task/1651
+ 2169 | Nested Ranges Count           | -- | https://cses.fi/alon/task/2169
+ 1734 | Distinct Values Queries       | -- | https://cses.fi/alon/task/1734
+ 1666 | Building Roads                | -- | https://cses.fi/alon/task/1666
+ 1195 | Flight Discount               | -- | https://cses.fi/alon/task/1195
+ 1202 | Investigation                 | -- | https://cses.fi/alon/task/1202
+ 1691 | Mail Delivery                 | -- | https://cses.fi/alon/task/1691
+ 1750 | Planets Queries I             | -- | https://cses.fi/alon/task/1750
+ 1160 | Planets Queries II            | -- | https://cses.fi/alon/task/1160
+ 2138 | Reachable Nodes               | -- | https://cses.fi/alon/task/2138
+ 2076 | Necessary Roads               | -- | https://cses.fi/alon/task/2076
+ 2077 | Necessary Cities              | -- | https://cses.fi/alon/task/2077
+ 1131 | Tree Diameter                 | -- | https://cses.fi/alon/task/1131
+ 1132 | Tree Distances I              | -- | https://cses.fi/alon/task/1132
+ 1133 | Tree Distances II             | -- | https://cses.fi/alon/task/1133
+ 1687 | Company Queries I             | -- | https://cses.fi/alon/task/1687
+ 1688 | Company Queries II            | -- | https://cses.fi/alon/task/1688
+ 1135 | Distance Queries              | -- | https://cses.fi/alon/task/1135
+ 1700 | Tree Isomorphism I            | -- | https://cses.fi/alon/task/1700
+ 2079 | Finding a Centroid            | -- | https://cses.fi/alon/task/2079
+ 1701 | Tree Isomorphism II           | -- | https://cses.fi/alon/task/1701
+ 1713 | Counting Divisors             | -- | https://cses.fi/alon/task/1713
+ 1081 | Common Divisors               | -- | https://cses.fi/alon/task/1081
+ 1079 | Binomial Coefficients         | -- | https://cses.fi/alon/task/1079
+ 1715 | Creating Strings II           | -- | https://cses.fi/alon/task/1715
+ 1716 | Distributing Apples           | -- | https://cses.fi/alon/task/1716
+ 1730 | Nim Game I                    | -- | https://cses.fi/alon/task/1730
+ 1098 | Nim Game II                   | -- | https://cses.fi/alon/task/1098
+ 1099 | Stair Game                    | -- | https://cses.fi/alon/task/1099
+ 1753 | String Matching               | -- | https://cses.fi/alon/task/1753
+ 1732 | Finding Borders               | -- | https://cses.fi/alon/task/1732
+ 1110 | Minimal Rotation              | -- | https://cses.fi/alon/task/1110
+ 2103 | Counting Patterns             | -- | https://cses.fi/alon/task/2103
+ 2104 | Pattern Positions             | -- | https://cses.fi/alon/task/2104
+ 2105 | Distinct Substrings           | -- | https://cses.fi/alon/task/2105
+ 2110 | Substring Distribution        | -- | https://cses.fi/alon/task/2110
+ 2072 | Cut and Paste                 | -- | https://cses.fi/alon/task/2072
+ 2073 | Substring Reversals           | -- | https://cses.fi/alon/task/2073
+
+Part 2
+ 1134 | Prüfer Code                   | -- | https://cses.fi/alon/task/1134
+ 1146 | Counting Bits                 | -- | https://cses.fi/alon/task/1146
+ 1756 | Acyclic Graph Edges           | -- | https://cses.fi/alon/task/1756
+ 2177 | Strongly Connected Edges      | -- | https://cses.fi/alon/task/2177
+ 2179 | Even Outdegree Edges          | -- | https://cses.fi/alon/task/2179
+ 2422 | Multiplication Table          | -- | https://cses.fi/alon/task/2422
+ 1664 | Movie Festival Queries        | -- | https://cses.fi/alon/task/1664
+ 1697 | Chess Tournament              | -- | https://cses.fi/alon/task/1697
+ 2215 | Monotone Subsequences         | -- | https://cses.fi/alon/task/2215
+ 1743 | String Reorder                | -- | https://cses.fi/alon/task/1743
+ 1747 | Pyramid Array                 | -- | https://cses.fi/alon/task/1747
+ 1748 | Increasing Subsequence II     | -- | https://cses.fi/alon/task/1748
+ 1149 | String Removals               | -- | https://cses.fi/alon/task/1149
+ 1188 | Bit Inversions                | -- | https://cses.fi/alon/task/1188
+ 2419 | Xor Pyramid                   | -- | https://cses.fi/alon/task/2419
+ 1086 | Writing Numbers               | -- | https://cses.fi/alon/task/1086
+ 1113 | String Transform              | -- | https://cses.fi/alon/task/1113
+ 1147 | Maximum Building I            | -- | https://cses.fi/alon/task/1147
+ 1162 | Sorting Methods               | -- | https://cses.fi/alon/task/1162
+ 2132 | Increasing Array II           | -- | https://cses.fi/alon/task/2132
+ 1189 | Food Division                 | -- | https://cses.fi/alon/task/1189
+ 1698 | Swap Round Sorting            | -- | https://cses.fi/alon/task/1698
+ 2228 | Counting Sequences            | -- | https://cses.fi/alon/task/2228
+ 1703 | Critical Cities               | -- | https://cses.fi/alon/task/1703
+ 1080 | Empty String                  | -- | https://cses.fi/alon/task/1080
+ 2075 | Reversal Sorting              | -- | https://cses.fi/alon/task/2075
+ 2184 | Missing Coin Sum Queries      | -- | https://cses.fi/alon/task/2184
+ 1148 | Maximum Building II           | -- | https://cses.fi/alon/task/1148
+ 1699 | Flight Route Requests         | -- | https://cses.fi/alon/task/1699
+ 2402 | Two Stacks Sorting            | -- | https://cses.fi/alon/task/2402
+ 1705 | Forbidden Cities              | -- | https://cses.fi/alon/task/1705
+ 1741 | Area of Rectangles            | -- | https://cses.fi/alon/task/1741
+ 1752 | Creating Offices              | -- | https://cses.fi/alon/task/1752
+ 2415 | Functional Graph Distribution | -- | https://cses.fi/alon/task/2415
+ 1685 | New Flight Routes             | -- | https://cses.fi/alon/task/1685
+

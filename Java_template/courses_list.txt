@@ -1,0 +1,22 @@
+Courses: 
+
+Algoritmit ongelmanratkaisussa (alon)
+  Helsingin yliopiston tietojenkäsittelytieteen aineopintokurssi, joka opettaa algoritmien suunnittelua ja toteutusta.
+
+BOI Contest Collection (boi)
+  This collection contains all Baltic Olympiad in Informatics contests from 2005 to 2021.
+
+CEOI Contest Collection (ceoi)
+  This collection contains all Central European Olympiad in Informatics contests from 2005 to 2021.
+
+CSES Problem Set (problemset)
+  The CSES Problem Set contains a collection of algorithm programming practice problems.
+
+Datatähti-valmennus (dt)
+  Kokoelma peruskoulun ja lukion oppilaille tarkoitettuja tehtäviä, joiden avulla voi harjoitella ohjelmointia ja algoritmeja.
+
+Programming for performance (pfp)
+  Automated evaluation for programming tasks on the programming for performance course at the Univeristy of Helsinki.
+
+Tietorakenteet ja algoritmit syksy 2021 (tira21s)
+  Helsingin yliopiston tietojenkäsittelytieteen aineopintokurssi, joka opettaa tietorakenteiden ja algoritmien perusteita.
